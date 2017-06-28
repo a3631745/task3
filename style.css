@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+background-color: #68CDD5;
+}
+.one{
+	margin-left: 2vw;
+	margin-top: 2vw;
+	height: 8em;
+	width: 3.375em;
+/*	border:1px solid red;*/
+}
+.two{
+	height: 8em;
+	width: 11.3125em;
+/*	border:1px solid red;*/
+	margin: 0 auto;
+}
+.three{
+	height: 7em;
+
+	text-align: mid;
+/*	border:1px solid red;*/
+	margin: 0 4em;
+}
+.four{
+	height: 7em;
+	width: 5.25em;
+    float: left;
+/*	border:1px solid red;*/
+	margin-left: 4em;
+}
+.five{
+    position: relative;
+	height: 7em;
+	width: 5.25em;
+/*	border:1px solid red;*/
+	margin-right:  4em;
+	float: right;
+
+}
